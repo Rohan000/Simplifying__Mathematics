@@ -25,6 +25,37 @@
     font-size: xx-large;
 }
 
+#email{
+    font-family: Monotype Corsiva,Times,Serif;
+    font-size: x-large;
+    text-decoration: blue;
+    margin-left: 0px;
+}
+
+#LinkedIn{
+    font-family: Monotype Corsiva,Times,Serif;
+    font-size: x-large;
+    text-decoration: blue;
+    margin-left: 90px;
+    margin-right: 113px;
+}
+
+#Resume{
+    font-family: Monotype Corsiva,Times,Serif;
+    font-size: x-large;
+    text-decoration: blue;
+    margin-left: 105px;
+    margin-right: 125px;
+}
+
+#Content_Area{
+    margin-top: 5px;
+    height: 600px;
+    width: 100%;
+    border: 1px solid;
+    float: left;
+}
+
 #Menu{
     height: 40px;
     width: 70%;
@@ -44,4 +75,18 @@
 
 .Menu-elem:hover{
     font-weight: bold;
+}
+
+#Blogs_List{
+    
+    font-family: monospace;
+    
+    color: black;
+    font-size: 40px;
+    margin-left: 70px;
+}
+
+.List_elem{
+    font-size: xx-large;
+    text-decoration: none;
 }
